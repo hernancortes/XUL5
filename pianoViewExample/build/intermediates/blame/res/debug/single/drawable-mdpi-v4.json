@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\key_white_custom.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoViewExample\\src\\main\\res\\drawable-mdpi\\key_white_custom.xml"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\key_white_pressed_custom.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoViewExample\\src\\main\\res\\drawable-mdpi\\key_white_pressed_custom.xml"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\key_black_pressed_custom.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoViewExample\\src\\main\\res\\drawable-mdpi\\key_black_pressed_custom.xml"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\key_black_custom.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoViewExample\\src\\main\\res\\drawable-mdpi\\key_black_custom.xml"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\key_white_depressed.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\exploded-aar\\XUL5\\pianoView\\unspecified\\res\\drawable-mdpi-v4\\key_white_depressed.xml"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\key_white_depressed_custom.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoViewExample\\src\\main\\res\\drawable-mdpi\\key_white_depressed_custom.xml"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\GITHUB\\XUL5\\pianoViewExample\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\key_white.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\exploded-aar\\XUL5\\pianoView\\unspecified\\res\\drawable-mdpi-v4\\key_white.xml"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\key_black_depressed_custom.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoViewExample\\src\\main\\res\\drawable-mdpi\\key_black_depressed_custom.xml"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\key_white_pressed.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\exploded-aar\\XUL5\\pianoView\\unspecified\\res\\drawable-mdpi-v4\\key_white_pressed.xml"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\key_black.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\exploded-aar\\XUL5\\pianoView\\unspecified\\res\\drawable-mdpi-v4\\key_black.xml"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\key_black_pressed.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\exploded-aar\\XUL5\\pianoView\\unspecified\\res\\drawable-mdpi-v4\\key_black_pressed.xml"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\key_black_depressed.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\exploded-aar\\XUL5\\pianoView\\unspecified\\res\\drawable-mdpi-v4\\key_black_depressed.xml"
+    }
+]

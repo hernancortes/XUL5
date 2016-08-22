@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\GITHUB\XUL5\PdCore\assets"/><source path="C:\GITHUB\XUL5\PdCore\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\GITHUB\XUL5\PdCore\build-types\debug\assets"/></dataSet></merger>

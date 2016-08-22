@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\GITHUB\\XUL5\\Voice-O-Rama\\build\\intermediates\\res\\merged\\debug\\raw\\extra_abs.zip",
+        "source": "C:\\GITHUB\\XUL5\\Voice-O-Rama\\build\\intermediates\\exploded-aar\\org.puredata.android\\PdCore\\1.0.1\\res\\raw\\extra_abs.zip"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\Voice-O-Rama\\build\\intermediates\\res\\merged\\debug\\raw\\test.pd",
+        "source": "C:\\GITHUB\\XUL5\\Voice-O-Rama\\res\\raw\\test.pd"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\Voice-O-Rama\\build\\intermediates\\res\\merged\\debug\\raw\\silence.wav",
+        "source": "C:\\GITHUB\\XUL5\\Voice-O-Rama\\build\\intermediates\\exploded-aar\\org.puredata.android\\PdCore\\1.0.1\\res\\raw\\silence.wav"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\GITHUB\\XUL5\\CircleOfFifths\\build\\intermediates\\res\\merged\\debug\\raw\\extra_abs.zip",
+        "source": "C:\\GITHUB\\XUL5\\CircleOfFifths\\build\\intermediates\\exploded-aar\\org.puredata.android\\PdCore\\1.0.1\\res\\raw\\extra_abs.zip"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\CircleOfFifths\\build\\intermediates\\res\\merged\\debug\\raw\\silence.wav",
+        "source": "C:\\GITHUB\\XUL5\\CircleOfFifths\\build\\intermediates\\exploded-aar\\org.puredata.android\\PdCore\\1.0.1\\res\\raw\\silence.wav"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\CircleOfFifths\\build\\intermediates\\res\\merged\\debug\\raw\\patch.zip",
+        "source": "C:\\GITHUB\\XUL5\\CircleOfFifths\\res\\raw\\patch.zip"
+    }
+]

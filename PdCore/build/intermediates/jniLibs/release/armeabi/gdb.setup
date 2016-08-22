@@ -1,0 +1,2 @@
+set solib-search-path C:/GITHUB/XUL5/PdCore/obj/local/armeabi
+directory C:/AndroidSDK/ndk-bundle/build//../platforms/android-9/arch-arm/usr/include C:/GITHUB/XUL5/PdCore/jni/libpd/pure-data/src C:/GITHUB/XUL5/PdCore/jni/libpd/libpd_wrapper C:/GITHUB/XUL5/PdCore/jni/libpd/libpd_wrapper/util C:/GITHUB/XUL5/PdCore/jni/libpd/jni C:/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/system

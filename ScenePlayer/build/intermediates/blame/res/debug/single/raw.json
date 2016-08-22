@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\GITHUB\\XUL5\\ScenePlayer\\build\\intermediates\\res\\merged\\debug\\raw\\atsuke.zip",
+        "source": "C:\\GITHUB\\XUL5\\ScenePlayer\\res\\raw\\atsuke.zip"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\ScenePlayer\\build\\intermediates\\res\\merged\\debug\\raw\\abstractions.zip",
+        "source": "C:\\GITHUB\\XUL5\\ScenePlayer\\res\\raw\\abstractions.zip"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\ScenePlayer\\build\\intermediates\\res\\merged\\debug\\raw\\silence.wav",
+        "source": "C:\\GITHUB\\XUL5\\ScenePlayer\\build\\intermediates\\exploded-aar\\org.puredata.android\\PdCore\\1.0.1\\res\\raw\\silence.wav"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\ScenePlayer\\build\\intermediates\\res\\merged\\debug\\raw\\extra_abs.zip",
+        "source": "C:\\GITHUB\\XUL5\\ScenePlayer\\build\\intermediates\\exploded-aar\\org.puredata.android\\PdCore\\1.0.1\\res\\raw\\extra_abs.zip"
+    }
+]

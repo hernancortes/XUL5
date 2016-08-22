@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "C:\\GITHUB\\XUL5\\pianoViewExample\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 57,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "C:\\GITHUB\\XUL5\\pianoViewExample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 55,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "C:\\GITHUB\\XUL5\\pianoViewExample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 52,
+                    "endOffset": 418
+                },
+                "from": {
+                    "file": "C:\\GITHUB\\XUL5\\pianoViewExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 423,
+                    "endColumn": 45,
+                    "endOffset": 464
+                },
+                "from": {
+                    "file": "C:\\GITHUB\\XUL5\\pianoViewExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 45,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 469,
+                    "endColumn": 52,
+                    "endOffset": 517
+                },
+                "from": {
+                    "file": "C:\\GITHUB\\XUL5\\pianoViewExample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 52,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 522,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "C:\\GITHUB\\XUL5\\pianoViewExample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "C:\\GITHUB\\XUL5\\pianoViewExample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    }
+]

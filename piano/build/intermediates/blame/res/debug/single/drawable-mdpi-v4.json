@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\GITHUB\\XUL5\\piano\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_search.png",
+        "source": "C:\\GITHUB\\XUL5\\piano\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\piano\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\GITHUB\\XUL5\\piano\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

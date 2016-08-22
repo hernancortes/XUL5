@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml:3:2-39
+		INJECTED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml
+		INJECTED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml
+		INJECTED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml
+		INJECTED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml
+application
+ADDED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml:4:2-12:16
+MERGED from [org.puredata.android:PdCore:1.0.1] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\org.puredata.android\PdCore\1.0.1\AndroidManifest.xml:11:5-13:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml:4:45-77
+	android:icon
+		ADDED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml:4:15-44
+activity#org.puredata.android.fifths.CircleOfFifths
+ADDED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml:5:3-11:14
+	android:screenOrientation
+		ADDED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml:6:4-40
+	android:label
+		ADDED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml:5:44-76
+	android:theme
+		ADDED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml:6:41-83
+	android:name
+		ADDED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml:5:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml:7:4-10:20
+action#android.intent.action.MAIN
+ADDED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml:8:5-57
+	android:name
+		ADDED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml:8:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml:9:15-62
+uses-sdk
+INJECTED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [org.puredata.android:PdCore:1.0.1] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\org.puredata.android\PdCore\1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.noisepages.nettoyeur:midi:1.0.0-rc1] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.noisepages.nettoyeur\midi\1.0.0-rc1\AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:support-v4:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml
+		INJECTED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml
+		INJECTED from C:\GITHUB\XUL5\CircleOfFifths\AndroidManifest.xml
+activity#org.puredata.android.service.MainActivity
+ADDED from [org.puredata.android:PdCore:1.0.1] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\org.puredata.android\PdCore\1.0.1\AndroidManifest.xml:12:9-78
+	android:name
+		ADDED from [org.puredata.android:PdCore:1.0.1] C:\GITHUB\XUL5\CircleOfFifths\build\intermediates\exploded-aar\org.puredata.android\PdCore\1.0.1\AndroidManifest.xml:12:19-75

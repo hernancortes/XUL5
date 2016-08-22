@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="notes">
+        <item>@raw/c4</item>
+        <item>@raw/d4</item>
+        <item>@raw/e4</item>
+        <item>@raw/f4</item>
+        <item>@raw/g4</item>
+        <item>@raw/a4</item>
+        <item>@raw/b4</item>
+        <item>@raw/c5</item>
+        <item>@raw/d5</item>
+        <item>@raw/e5</item>
+        <item>@raw/f5</item>
+        <item>@raw/cis4</item>
+        <item>@raw/dis4</item>
+        <item>@raw/fis4</item>
+        <item>@raw/gis4</item>
+        <item>@raw/ais4</item>
+        <item>@raw/cis5</item>
+        <item>@raw/dis5</item>
+    </integer-array>
+    <string name="app_name">ピアノ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_piano">PianoActivity</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

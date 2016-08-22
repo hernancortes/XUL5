@@ -1,0 +1,3 @@
+//include ':app', ':pianoView', ':PdCore', ':ScenePlayer', ':CircleOfFifths', ':PdTest', ':Voice-O-Rama', ':piano'
+//include ':pianoViewExample'
+include ':pianoView', ':PdCore', ':PdTest'

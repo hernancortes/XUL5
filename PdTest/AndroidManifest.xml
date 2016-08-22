@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="org.puredata.android.test">
+
+	<!-- QUITANDO DE APPLICATION ESTO PANTALLA QUEDA ORIENTACION AUTOMATICA: android:screenOrientation="sensorLandscape"
+	 OJO que ABAJO TAMBIEN LA ACTIVIDAD TIENE SCREENORIENTATION!
+	 -->
+
+	<application android:icon="@drawable/icon" android:label="@string/app_name" android:theme="@style/AppTheme">
+		<activity android:label="@string/app_name" android:name=".PdTest"
+			  android:launchMode="singleTask" android:screenOrientation="sensorLandscape">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<service android:name="org.puredata.android.service.PdService" />
+		<activity android:label="Pure Data Preferences"
+			android:name="org.puredata.android.service.PdPreferences"
+			android:screenOrientation="sensorLandscape" />
+	</application>
+	<uses-permission android:name="android.permission.RECORD_AUDIO" />
+    	<uses-permission android:name="android.permission.BLUETOOTH" />
+</manifest> 

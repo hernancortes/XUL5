@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="C:\GITHUB\XUL5\pianoViewExample\build\intermediates\exploded-aar\XUL5\pianoView\unspecified\assets"/></dataSet><dataSet config="main"><source path="C:\GITHUB\XUL5\pianoViewExample\src\main\assets"/><source path="C:\GITHUB\XUL5\pianoViewExample\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\GITHUB\XUL5\pianoViewExample\src\debug\assets"/></dataSet></merger>

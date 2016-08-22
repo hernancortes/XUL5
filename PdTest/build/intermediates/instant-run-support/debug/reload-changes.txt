@@ -1,0 +1,2 @@
+CHANGED,C:\GITHUB\XUL5\PdTest\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\GITHUB\XUL5\PdTest\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\puredata\android\test\PdTest$override.class

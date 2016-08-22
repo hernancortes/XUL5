@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:piano="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="horizontal"
+    android:id="@+id/main_content"
+    tools:context="org.puredata.android.test.PdTest"
+     >
+
+    <com.twobard.pianoview.Piano 
+        android:layout_width="fill_parent"
+    	android:layout_height="80dp"
+    	piano:keyCount="12"
+    	piano:blackKeyDrawable="@drawable/key_black_custom"
+    	piano:whiteKeyDrawable="@drawable/key_white_custom"
+    />
+
+	<!--
+DESDE ACA EL XML DE test
+-->
+	<Button android:id="@+id/play_button" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="@string/play_button_text" />
+	<CheckBox android:id="@+id/left_box" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:checked="true"
+		android:text="@string/left_label" />
+	<CheckBox android:id="@+id/right_box" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:checked="true"
+		android:text="@string/right_label" />
+	<CheckBox android:id="@+id/mic_box" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:checked="true"
+		android:text="@string/mic_label" />
+	<EditText android:id="@+id/msg_box" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:lines="1"
+		android:inputType="text" android:text="@string/default_msg" />
+	<Button android:id="@+id/pref_button" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="@string/pref_button_text" />
+	<TextView android:id="@+id/log_box" android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:gravity="bottom"
+		android:scrollbars="vertical" android:text="" />
+
+	<!--
+HASTA ACA EL XML DE test
+-->
+
+</LinearLayout>

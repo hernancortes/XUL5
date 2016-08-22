@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\key_white_pressed.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoView\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\key_white_pressed.xml"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\GITHUB\\XUL5\\pianoView\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\key_white.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoView\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\key_white.xml"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\key_black_pressed.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoView\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\key_black_pressed.xml"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\key_black.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoView\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\key_black.xml"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\key_black_depressed.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoView\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\key_black_depressed.xml"
+    },
+    {
+        "merged": "C:\\GITHUB\\XUL5\\pianoView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\key_white_depressed.xml",
+        "source": "C:\\GITHUB\\XUL5\\pianoView\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\key_white_depressed.xml"
+    }
+]
