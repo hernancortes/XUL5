@@ -4,30 +4,22 @@
     api-level="19"
     density="hdpi"
     format="7"
-    timestamp="507816238054085"
+    timestamp="508876085150298"
     token="-392700183021530247" >
 
     <task
         name="javac"
-        duration="1922" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1797" />
+        duration="0" />
     <task
         name="verifier"
-        duration="859" />
+        duration="0" />
 
-    <artifact
-        location="C:\Users\ddavi\Documents\GitHub\untref-sintetizador\PdTest\build\outputs\apk\PdTest-debug.apk"
-        type="MAIN" />
-
-    <build timestamp="507816238054085" >
-        <artifact
-            location="C:\Users\ddavi\Documents\GitHub\untref-sintetizador\PdTest\build\outputs\apk\PdTest-debug.apk"
-            type="MAIN" />
-    </build>
+    <build timestamp="508876085150298" />
 
 </instant-run>
