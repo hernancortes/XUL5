@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\GITHUB\\XUL5\\pianoView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
-        "source": "C:\\GITHUB\\XUL5\\pianoView\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\pianoView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\pianoView\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\pianoView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\pianoView\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
     }
 ]

@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\menu\\pd_test_menu.xml",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\menu\\pd_test_menu.xml"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\menu\\pd_test_menu.xml",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\menu\\pd_test_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\menu\\pd_test_menu.xml",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\menu\\pd_test_menu.xml"
     }
 ]

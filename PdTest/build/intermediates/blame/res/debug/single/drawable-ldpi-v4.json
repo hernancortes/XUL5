@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\drawable-ldpi\\icon.png"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\drawable-ldpi\\icon.png"
     }
 ]

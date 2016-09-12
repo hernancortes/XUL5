@@ -1,82 +1,162 @@
 [
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_sh.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\x_sh.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\cell.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\cell.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_eg1.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\x_eg1.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_mix.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\x_mix.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vcf2.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\x_vcf2.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_kb.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\x_kb.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_seq.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\x_seq.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vco3.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\x_vco3.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_kb.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\x_kb.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vcf1.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\x_vcf1.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vca1.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\x_vca1.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vca2.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\x_vca2.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\silence.wav",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\exploded-aar\\org.puredata.android\\PdCore\\1.0.1\\res\\raw\\silence.wav"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vco1.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\x_vco1.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vco2.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\x_vco2.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\presets.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\presets.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\presets.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\presets.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_eg1.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\x_eg1.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\extra_abs.zip",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\exploded-aar\\org.puredata.android\\PdCore\\1.0.1\\res\\raw\\extra_abs.zip"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vcf2.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\x_vcf2.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_eg2.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\x_eg2.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_sh.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\x_sh.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vco3.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\x_vco3.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_sh.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\x_sh.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vca2.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\x_vca2.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_eg1.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\x_eg1.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vcf1.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\x_vcf1.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\silence.wav",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\exploded-aar\\org.puredata.android\\PdCore\\1.0.1\\res\\raw\\silence.wav"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\cell.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\cell.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_seq.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\x_seq.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_mix.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\x_mix.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\cell.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\cell.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_mtx.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\x_mtx.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\synth.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\synth.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vco1.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\x_vco1.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vca1.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\x_vca1.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_ng.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\x_ng.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_ng.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\x_ng.pd"
     },
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\synth.pd",
-        "source": "C:\\GITHUB\\XUL5\\PdTest\\res\\raw\\synth.pd"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_eg2.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\x_eg2.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vca1.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\x_vca1.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\synth.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\synth.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_mtx.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\x_mtx.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_seq.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\x_seq.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vco3.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\x_vco3.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vcf1.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\x_vcf1.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\presets.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\presets.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vco1.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\x_vco1.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\extra_abs.zip",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\exploded-aar\\org.puredata.android\\PdCore\\1.0.1\\res\\raw\\extra_abs.zip"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vca2.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\x_vca2.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vcf2.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\x_vcf2.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vco2.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\x_vco2.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_mtx.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\x_mtx.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_kb.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\x_kb.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_ng.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\res\\raw\\x_ng.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\silence.wav",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\exploded-aar\\org.puredata.android\\PdCore\\1.0.1\\res\\raw\\silence.wav"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_vco2.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\x_vco2.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\extra_abs.zip",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdTest\\build\\intermediates\\exploded-aar\\org.puredata.android\\PdCore\\1.0.1\\res\\raw\\extra_abs.zip"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_mix.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\x_mix.pd"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\build\\intermediates\\res\\merged\\debug\\raw\\x_eg2.pd",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdTest\\res\\raw\\x_eg2.pd"
     }
 ]

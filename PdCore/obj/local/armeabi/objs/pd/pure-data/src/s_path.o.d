@@ -1,14 +1,14 @@
-C:/GITHUB/XUL5/PdCore/obj/local/armeabi/objs/pd/pure-data/src/s_path.o: \
- C:/GITHUB/XUL5/PdCore/jni/libpd/pure-data/src/s_path.c \
- C:/GITHUB/XUL5/PdCore/jni/libpd/pure-data/src/m_pd.h \
- C:/GITHUB/XUL5/PdCore/jni/libpd/pure-data/src/m_imp.h \
- C:/GITHUB/XUL5/PdCore/jni/libpd/pure-data/src/s_stuff.h \
- C:/GITHUB/XUL5/PdCore/jni/libpd/pure-data/src/s_utf8.h
+C:/Users/ddavi/Documents/GitHub/XUL5/PdCore/obj/local/armeabi/objs/pd/pure-data/src/s_path.o: \
+ C:/Users/ddavi/Documents/GitHub/XUL5/PdCore/jni/libpd/pure-data/src/s_path.c \
+ C:/Users/ddavi/Documents/GitHub/XUL5/PdCore/jni/libpd/pure-data/src/m_pd.h \
+ C:/Users/ddavi/Documents/GitHub/XUL5/PdCore/jni/libpd/pure-data/src/m_imp.h \
+ C:/Users/ddavi/Documents/GitHub/XUL5/PdCore/jni/libpd/pure-data/src/s_stuff.h \
+ C:/Users/ddavi/Documents/GitHub/XUL5/PdCore/jni/libpd/pure-data/src/s_utf8.h
 
-C:/GITHUB/XUL5/PdCore/jni/libpd/pure-data/src/m_pd.h:
+C:/Users/ddavi/Documents/GitHub/XUL5/PdCore/jni/libpd/pure-data/src/m_pd.h:
 
-C:/GITHUB/XUL5/PdCore/jni/libpd/pure-data/src/m_imp.h:
+C:/Users/ddavi/Documents/GitHub/XUL5/PdCore/jni/libpd/pure-data/src/m_imp.h:
 
-C:/GITHUB/XUL5/PdCore/jni/libpd/pure-data/src/s_stuff.h:
+C:/Users/ddavi/Documents/GitHub/XUL5/PdCore/jni/libpd/pure-data/src/s_stuff.h:
 
-C:/GITHUB/XUL5/PdCore/jni/libpd/pure-data/src/s_utf8.h:
+C:/Users/ddavi/Documents/GitHub/XUL5/PdCore/jni/libpd/pure-data/src/s_utf8.h:

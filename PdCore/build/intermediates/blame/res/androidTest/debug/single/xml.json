@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\GITHUB\\XUL5\\PdCore\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\preferences.xml",
-        "source": "C:\\GITHUB\\XUL5\\PdCore\\build\\intermediates\\bundles\\debug\\res\\xml\\preferences.xml"
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdCore\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\untref-sintetizador\\PdCore\\build\\intermediates\\bundles\\debug\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdCore\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\ddavi\\Documents\\GitHub\\XUL5\\PdCore\\build\\intermediates\\bundles\\debug\\res\\xml\\preferences.xml"
     }
 ]

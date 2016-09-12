@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\GITHUB\XUL5\pianoView\src\main\assets"/><source path="C:\GITHUB\XUL5\pianoView\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\GITHUB\XUL5\pianoView\src\release\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\ddavi\Documents\GitHub\untref-sintetizador\pianoView\src\main\assets"/><source path="C:\Users\ddavi\Documents\GitHub\untref-sintetizador\pianoView\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Users\ddavi\Documents\GitHub\untref-sintetizador\pianoView\src\release\assets"/></dataSet></merger>
