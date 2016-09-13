@@ -20,32 +20,7 @@
         android:orientation="horizontal"
         android:gravity="center" >
 
-        <!--
-DESDE ACA EL XML DE test. EL LINEARLAYOUT QUE LO RODEA LO AGREGUE PARA QUE QUEDE FIJO ARRIBA
--->
-
-        <!--
-                <Button android:id="@+id/play_button" android:layout_width="fill_parent"
-                    android:layout_height="wrap_content" android:text="@string/play_button_text" />
-
-                <CheckBox android:id="@+id/left_box" android:layout_width="fill_parent"
-                    android:layout_height="wrap_content" android:checked="true"
-                    android:text="@string/left_label" />
-                <CheckBox android:id="@+id/right_box" android:layout_width="fill_parent"
-                    android:layout_height="wrap_content" android:checked="true"
-                    android:text="@string/right_label" />
-                <CheckBox android:id="@+id/mic_box" android:layout_width="fill_parent"
-                    android:layout_height="wrap_content" android:checked="true"
-                    android:text="@string/mic_label" />
-                <EditText android:id="@+id/msg_box" android:layout_width="fill_parent"
-                    android:layout_height="wrap_content" android:lines="1"
-                    android:inputType="text" android:text="@string/default_msg" />
-        -->
-
-                <!--
-                        <Button android:id="@+id/pref_button" android:layout_width="wrap_content"
-                            android:layout_height="wrap_content" android:text="@string/pref_button_text" />
-                -->
+  
                 <Button android:id="@+id/solapa1" android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:layout_weight="1" android:text="Piano" />
                 <Button android:id="@+id/solapa2" android:layout_width="match_parent"
